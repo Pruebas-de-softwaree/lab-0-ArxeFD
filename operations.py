@@ -29,7 +29,7 @@ if __name__ == "__main__":
 
     print("start test")
 
-    print(add("a",5))
+    print(square_root(-2))
 
     print("end test")
 
